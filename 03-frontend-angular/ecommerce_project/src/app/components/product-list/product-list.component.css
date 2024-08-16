@@ -1,0 +1,73 @@
+.animate-character {
+    text-transform: uppercase;
+    background-image: linear-gradient(
+        -225deg,
+        #231557 0%,
+        #44107a 29%,
+        #ff1361 67%,
+        #fff800 100%
+    );
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    color: #fff;
+    background-clip: text;
+  
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    margin: 10px;
+    font-size: 24px; /* Adjusted font size for smaller text */
+    margin-top: -100px; /* Moves the text upward */
+    z-index: 1000; /* Ensures the text appears above other elements */
+    position: relative; 
+   /* Allows z-index to take effect */
+}
+
+@keyframes textclip {
+    to {
+        background-position: 200% center;
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .animate-character {
+        font-size: 18px; /* Smaller font size for mobile */
+        margin-top: 10px; /* Adjust margin for mobile */
+    }
+}
+
+
+.footer-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  ngb-pagination ::ng-deep a {
+    color: #585858 !important;
+    font-size: 1.6rem;
+  }
+  ngb-pagination ::ng-deep .page-item.active .page-link {
+    background-color: #0d6efd;
+    color: #fff !important;
+  }
+  ngb-pagination ::ng-deep .page-item.active .page-link:focus,
+  .page-link:not(:disabled):not(.disabled):active:focus {
+    box-shadow: 0 0 0 0.1rem dimgrey;
+  }
+  ngb-pagination ::ng-deep .page-link:not(:disabled):not(.disabled):active:focus {
+    box-shadow: 0 0 0 0.1rem dimgrey;
+  }
+  .right-pagination span {
+    margin-right: 1.2rem;
+    color: #585858;
+    font-size: 1.6rem;
+  }
+  .right-pagination select {
+    background-color: #fff;
+    color: #0d6efd;
+    border: 1px solid #bfbfbf;
+    padding: 0.6rem 0;
+  }
