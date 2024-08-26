@@ -200,6 +200,6 @@ This E-Commerce website, known as **"Luv2Shop,"** is a full-stack application bu
 If you have any questions, suggestions, or just want to get in touch, you can reach us at:
 
 - Email: [hg979084@gmail.com](mailto:hg979084@gmail.com)
-- LinkedIn: [Hardik Gupta](www.linkedin.com/in/hardik-gupta830)
+- LinkedIn: [Hardik Gupta](https://www.linkedin.com/in/hardik-gupta830)
 
 We appreciate your interest and look forward to your contributions and feedback!
