@@ -1,205 +1,195 @@
-# Full-Stack E-Commerce Application with Angular and Spring Boot
+# <span style="color:#2C3E50">🛒 Full-Stack E-Commerce Application with Angular and Spring Boot</span>
 
-### Desktop View
-
+### <span style="color:#3498DB">💻 Desktop View</span>
 ![Desktop Screenshot](./desktop_screenshot.png)
 
-### Mobile View
-
+### <span style="color:#3498DB">📱 Mobile View</span>
 ![Mobile Screenshot](./mobile_screenshot.png)
 
-### User Interaction Flowchart
+### <span style="color:#9B59B6">🔄 User Interaction Flowchart</span>
 
-A detailed flowchart illustrating the user interaction process on the Luv2Shop website. This visual representation showcases the complete journey a user undergoes while interacting with our e-commerce platform, from browsing products to making a purchase.
+A detailed flowchart illustrating the user interaction process on the **Luv2Shop** website, showcasing the complete journey from browsing products to making a purchase.
 
 ![User Interaction Screenshot](./UserInteractionflow_screenshot.png)
 
-### Data and Technology Flowchart
+### <span style="color:#9B59B6">🔧 Data and Technology Flowchart</span>
 
-A detailed flowchart that illustrates how data and technology flow through the Luv2Shop website. This visual guide provides a clear understanding of how various components and technologies interact to deliver a seamless user experience.
+A flowchart depicting how data and technology flow through the **Luv2Shop** website. It offers insight into how various components and technologies interact to provide a seamless user experience.
 
 ![Data and Technology Screenshot](./techstackflow_screenshot.png)
 
-This repository contains the code for the Full-Stack E-Commerce Website developed as part of the Udemy course ["Full Stack: Angular and Java Spring Boot E-Commerce Website"](https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/) by [Chad Darby](https://github.com/darbyluv2code).
+---
 
-## Overview
+## <span style="color:#F39C12">🛍️ Overview</span>
 
-This E-Commerce website, known as **"Luv2Shop,"** is a full-stack application built with Angular and Java Spring Boot. It includes a wide range of features and functionalities necessary for a modern online store. The project is designed to showcase best practices in building robust and secure web applications using the technologies mentioned above.
+**Luv2Shop** is a full-stack E-Commerce website built with **Angular** and **Spring Boot**. It features a wide range of functionalities necessary for a modern online store, designed to showcase best practices in building secure and scalable web applications.
 
-## Features
+---
 
-- **User Authentication**: Utilizes Spring Security and Okta for secure user authentication and authorization.
-- **Product Catalog**: Allows users to browse and search for products with a well-structured product catalog.
-- **Shopping Cart**: Users can add products to their cart and proceed to checkout seamlessly.
-- **Payment Integration**: Integration with Stripe for handling payments.
-- **Luv2Shop ChatBot**: Users can interact with the AI chatbot related to the site.
-- **Responsive Design**: Improved styling and responsive design for a better user experience.
+## <span style="color:#E67E22">✨ Features</span>
 
-## Technologies Used
+- **🔐 User Authentication**: Secured with **Spring Security** and **Okta**.
+- **🛒 Product Catalog**: Browse and search products in a structured catalog.
+- **🛍️ Shopping Cart**: Seamlessly add items to the cart and proceed to checkout.
+- **💳 Payment Integration**: Handled through **Stripe** for smooth transactions.
+- **🤖 Luv2Shop ChatBot**: Interact with the AI chatbot for assistance.
+- **📱 Responsive Design**: Optimized for various screen sizes for a better user experience.
 
-- Java 22
-- Apache Maven
-- Hibernate
-- Spring Core
-- Spring Data
-- Spring REST
-- Spring Boot
-- Spring Security
-- TypeScript
-- Angular
-- Okta
-- Stripe
-- Generative AI
+---
 
-## Contributions
+## <span style="color:#3498DB">🚀 Technologies Used</span>
 
-- **Payment Features Implementation**: Developed and integrated multiple payment functionalities to ensure a smooth and reliable transaction experience for users.
-- **AI Chatbot Integration**: Implemented an AI chatbot to enhance user interaction and provide a more engaging and interactive experience on the website.
+- **Java 22**  
+- **Apache Maven**  
+- **Hibernate**  
+- **Spring Boot / Core / Data / REST / Security**  
+- **TypeScript**  
+- **Angular**  
+- **Okta**  
+- **Stripe**  
+- **Generative AI**
 
-## Luv2Shop Website Interaction Guide
+---
 
-### 1. Browse the Product Catalog
+## <span style="color:#F1C40F">💡 Contributions</span>
+
+- **Payment Features Implementation**: Developed and integrated reliable payment functionalities.
+- **AI Chatbot Integration**: Enhanced user experience with interactive AI-driven chatbot.
+
+---
+
+## <span style="color:#9B59B6">🛒 Luv2Shop Website Interaction Guide</span>
+
+### 1. <span style="color:#1ABC9C">📚 Browse the Product Catalog</span>
 
 #### Accessing the Catalog
 
-- You can explore the product catalog without needing to log in.
-- Simply visit the homepage of the Luv2Shop website.
-- Navigate through different categories and use the search bar to find specific products.
+- **No login required** to browse the product catalog.
+- Use the **search bar** to find products.
 
 #### Product Details
 
-- Click on any product to view detailed information, including:
-  - Product description
-  - Price
-  - Available sizes and colors
-  - Customer reviews and ratings
+- Click a product to view:
+  - **📝 Description**
+  - **💰 Price**
+  - **🎨 Sizes/Colors**
+  - **⭐ Reviews and Ratings**
 
-### 2. Login to Your Account
+---
+
+### 2. <span style="color:#1ABC9C">🔑 Login to Your Account</span>
 
 #### Why Login?
 
-- Logging in allows you to access personalized features such as viewing your profile, order history, and managing your cart.
+- Access personalized features like profile management, order history, and more.
 
 #### Login Credentials
 
-- Use the following credentials to log in:
-  - Email: `hg979084@gmail.com`
-  - Password: `Hard@9636`
+- **Email**: `hg979084@gmail.com`  
+- **Password**: `Hard@9636`
 
 #### Steps to Login
 
-- Click on the "Login" button located at the top right corner of the homepage.
-- Enter your email and password in the provided fields.
-- Click the "Submit" button to log in.
+- Click **Login** on the top-right corner.
+- Enter credentials and click **Submit**.
 
-### 3. Access Additional Features After Login
+---
+
+### 3. <span style="color:#1ABC9C">👤 Access Additional Features After Login</span>
 
 #### Member Profile
 
-- Once logged in, click on the "Profile" button to:
-  - View and edit your personal information.
-  - Change your password.
-  - Update your shipping and billing addresses.
+- View or edit personal info.
+- Manage shipping and billing addresses.
 
 #### Order History
 
-- Access the "Orders" section to:
-  - View a list of all your past orders.
-  - Check the status of current orders.
-  - Reorder items from your history.
+- View order statuses and reorder items.
 
-### 4. Add Items to Your Cart
+---
 
-#### Selecting Products
+### 4. <span style="color:#1ABC9C">🛒 Add Items to Your Cart</span>
 
-- While browsing the catalog, click on the "Add to Cart" button for any product you wish to purchase.
+#### Adding Products
 
-#### Reviewing Your Cart
+- Click **Add to Cart** to add items while browsing.
 
-- Click on the "Cart" icon at the top of the page to:
-  - Review all items added to your cart.
-  - Modify quantities or remove items if necessary.
+#### Reviewing Cart
 
-#### Cart Details
+- Click the **Cart** icon to:
+  - **View items**, modify quantities, or remove items.
+  - See the **total cost**.
 
-- The cart summary will display:
-  - Product name
-  - Quantity selected
-  - Price per item
-  - Total cost
+---
 
-### 5. Proceed to Checkout
+### 5. <span style="color:#1ABC9C">💳 Proceed to Checkout</span>
 
 #### Checkout Process
 
-- Once you are satisfied with the items in your cart, click on the "Proceed to Checkout" button.
-- You will be prompted to enter your shipping and billing information.
-- Review your order to ensure all details are correct.
+- Click **Proceed to Checkout**, enter shipping and billing details, and review your order.
 
 #### Shipping Information
 
-- Enter your address, and choose your preferred shipping method.
-- You can also use a saved address from your profile.
+- Choose or enter your shipping method and address.
 
 #### Billing Information
 
-- Provide your payment details or choose a saved payment method.
-- Ensure that your billing address matches the address linked to your payment method.
+- Enter payment details or use a saved payment method.
 
-### 6. Make a Payment Using Stripe
+---
+
+### 6. <span style="color:#1ABC9C">💸 Make a Payment Using Stripe</span>
 
 #### Test Payment Details
 
-- For testing purposes, use the following Stripe test card details:
-  - **Visa**
-    - Card Number: `4242 4242 4242 4242`
-    - Expiration Date: Any future date (e.g., 12/25)
-    - CVC: Any three-digit number (e.g., 123)
-  - **MasterCard**
-    - Card Number: `5555 5555 5555 4444`
-    - Expiration Date: Any future date (e.g., 12/25)
-    - CVC: Any three-digit number (e.g., 123)
-  - These test card details simulate a successful payment and allow you to test the payment functionality without making actual charges to a credit card.
+Use these test details for testing the payment process:
+
+- **Visa**  
+  - Card Number: `4242 4242 4242 4242`  
+  - Expiry: Any future date  
+  - CVC: Any 3 digits
 
 #### Payment Confirmation
 
-- After entering the test card details, click on "Submit Payment."
-- A confirmation popup will appear, indicating that your payment was successful.
+- After submission, a **confirmation popup** will appear.
 
-### 7. Order Confirmation and Tracking
+---
+
+### 7. <span style="color:#1ABC9C">📦 Order Confirmation and Tracking</span>
 
 #### Order Confirmation
 
-- After placing your order, you will receive a confirmation popup with your order details.
-- An email confirmation will also be sent to your registered email address.
+- Receive a **popup and email confirmation** with your order details.
 
-#### Tracking Your Order
+#### Tracking Orders
 
-- Go to the "Orders" section in your account to:
-  - View the status of your orders.
-  - Track your shipment in real-time.
-  - View estimated delivery dates.
+- Track your order from the **Orders** section in your account.
 
-### 8. Additional Support
+---
+
+### 8. <span style="color:#1ABC9C">📞 Additional Support</span>
 
 #### Customer Support
 
-- If you encounter any issues or need further assistance:
-  - Use the chatbot for quick answers or to connect with customer support.
+- Use the **chatbot** for quick answers or customer support.
 
 #### FAQ Section
 
-- Visit our FAQ section for answers to common questions about:
-  - Shipping and delivery
-  - Returns and refunds
-  - Payment methods
-  - Account management
+- Check the **FAQ** for answers about:
+  - **Shipping**
+  - **Returns**
+  - **Payments**
+  - **Account management**
 
-## Contact Information
+---
 
-If you have any questions, suggestions, or just want to get in touch, you can reach us at:
+## <span style="color:#E74C3C">📧 Contact Information</span>
 
-- Email: [hg979084@gmail.com](mailto:hg979084@gmail.com)
-- LinkedIn: [Hardik Gupta](https://www.linkedin.com/in/hardik-gupta830)
+For inquiries or feedback, feel free to contact:
 
-We appreciate your interest and look forward to your contributions and feedback!
+- **Email**: [hg979084@gmail.com](mailto:hg979084@gmail.com)
+- **LinkedIn**: [Hardik Gupta](https://www.linkedin.com/in/hardik-gupta830)
+
+---
+
+<span style="color:#2ECC71">🙏 Thank you for visiting! We look forward to your feedback and contributions.</span>
