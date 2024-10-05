@@ -39,22 +39,21 @@ A flowchart depicting how data and technology flow through the **Luv2Shop** webs
 
 ## <span style="color:#3498DB">🚀 Technologies Used</span>
 
-- **Java 22**  
-- **Apache Maven**  
-- **Hibernate**  
-- **Spring Boot / Core / Data / REST / Security**  
-- **TypeScript**  
-- **Angular**  
-- **Okta**  
-- **Stripe**  
-- **Generative AI**
+| <span style="color:#E74C3C">🟡 Java 22</span> | <span style="color:#E74C3C">🟣 Apache Maven</span> | <span style="color:#E74C3C">🟢 Hibernate</span> |
+|:----------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![Maven Logo](https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg) | ![Hibernate Logo](https://img.icons8.com/color/48/000000/hibernate.png) |
+| **Spring Boot** | **TypeScript** | **Angular** |
+| ![Spring Boot Logo](https://img.icons8.com/color/48/000000/spring-logo.png) | ![TypeScript Logo](https://img.icons8.com/color/48/000000/typescript.png) | ![Angular Logo](https://img.icons8.com/color/48/000000/angularjs.png) |
+| **Okta** | **Stripe** | **Generative AI** |
+| ![Okta Logo](https://www.vectorlogo.zone/logos/okta/okta-ar21.svg) | ![Stripe Logo](https://img.icons8.com/color/48/000000/stripe.png) | ![AI Logo](https://img.icons8.com/color/48/000000/artificial-intelligence.png) |
+
 
 ---
 
 ## <span style="color:#F1C40F">💡 Contributions</span>
 
 - **Payment Features Implementation**: Developed and integrated reliable payment functionalities.
-- **AI Chatbot Integration**: Enhanced user experience with interactive AI-driven chatbot.
+- **AI Chatbot Integration**: Enhanced user experience with an interactive AI-driven chatbot.
 
 ---
 
